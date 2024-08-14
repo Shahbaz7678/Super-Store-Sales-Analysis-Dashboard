@@ -10,3 +10,6 @@
 2. Data transformation and modeling: Clean and transform the collected data, creating relationships and links between the tables, sets and properties 
 3. Data Calculation: Using time series analysis to calculate and predict the results 
 4. Data visualization: Creating an interactive dashboard for better understanding and analysing
+
+### **Result**
+[Super-Store Sales Analysis Dashboard.pdf](https://github.com/user-attachments/files/16609994/Super-Store.Sales.Analysis.Dashboard.pdf)
